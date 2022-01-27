@@ -1,0 +1,189 @@
+************************************************************************************************************************
+*********************************  RISULTATI QUESTIONARI ~ Versione A e Versione B  ************************************
+************************************************************************************************************************
+
+
+** VERSIONE A **********************************************************************************************************
+___________________________________________________________________________________________________
+** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+** 136 CONFERME della diagnosi prodotta dall'AI. | 304 NEGAZIONI della diagnosi prodotta dall'AI **
+** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+** 148 CONFERME della diagnosi prodotta dall'AI. | 292 NEGAZIONI della diagnosi prodotta dall'AI **
+___________________________________________________________________________________________________
+
+___________________________________________________________________________________________________
+** Di seguito sono riportate tutte le variazioni suddivise in base alla correttezza dei casi. 
+** Qualora non ci fossero variazioni i dati non saranno visualizzati. 
+___________________________________________________________________________________________________
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE CORRETTO e SPIEGAZIONE CORRETTA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 64 CONFERME della diagnosi prodotta dall'AI. | 156 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 76 CONFERME della diagnosi prodotta dall'AI. | 144 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE ERRATO e SPIEGAZIONE ERRATA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 34 CONFERME della diagnosi prodotta dall'AI. | 54 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 35 CONFERME della diagnosi prodotta dall'AI. | 53 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE ERRATO e SPIEGAZIONE CORRETTA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 14 CONFERME della diagnosi prodotta dall'AI. | 30 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 13 CONFERME della diagnosi prodotta dall'AI. | 31 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+************************************************************************************************************************
+
+
+** VERSIONE B **********************************************************************************************************
+___________________________________________________________________________________________________
+** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+** 317 CONFERME della diagnosi prodotta dall'AI. | 123 NEGAZIONI della diagnosi prodotta dall'AI **
+** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+** 305 CONFERME della diagnosi prodotta dall'AI. | 135 NEGAZIONI della diagnosi prodotta dall'AI **
+___________________________________________________________________________________________________
+
+___________________________________________________________________________________________________
+** Di seguito sono riportate tutte le variazioni suddivise in base alla correttezza dei casi. 
+** Qualora non ci fossero variazioni i dati non saranno visualizzati. 
+___________________________________________________________________________________________________
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE CORRETTO e SPIEGAZIONE CORRETTA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 173 CONFERME della diagnosi prodotta dall'AI. | 47 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 177 CONFERME della diagnosi prodotta dall'AI. | 43 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE ERRATO e SPIEGAZIONE ERRATA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 66 CONFERME della diagnosi prodotta dall'AI. | 22 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 61 CONFERME della diagnosi prodotta dall'AI. | 27 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE CORRETTO e SPIEGAZIONE ERRATA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 64 CONFERME della diagnosi prodotta dall'AI. | 24 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 51 CONFERME della diagnosi prodotta dall'AI. | 37 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+		__________________________________________________________________________________________________
+		** Dati relativi ai casi aventi ADVICE ERRATO e SPIEGAZIONE CORRETTA: 
+		** PRIMA del visionamento della spiegazione testuale si sono riscontrati: 
+		** 14 CONFERME della diagnosi prodotta dall'AI. | 30 NEGAZIONI della diagnosi prodotta dall'AI **
+		** DOPO il visionamento della spiegazione testuale si sono riscontrati: 
+		** 16 CONFERME della diagnosi prodotta dall'AI. | 28 NEGAZIONI della diagnosi prodotta dall'AI **
+		__________________________________________________________________________________________________
+
+************************************************************************************************************************
+
+
+** OSSERVAZIONI E DIFFERENZE TRA LE VERSIONI **************************************************************************************************
+__________________________________________________________________________________________________________________________________________
+** PERCENTUALI ACCETTAZIONE DIAGNOSI AI: 
+** Di seguito sono riportate le percentuali d'accettazione della diagnosi prodotta dall'AI per le due versioni. 
+** 33.64 % - Percentuale conferme dell'AI per la Versione A 
+** 69.32 % - Percentuale conferme dell'AI per la Versione B 
+** Nella Versione A i rispondenti hanno quindi confermato meno frequentemente la diagnosi suggerita dall'AI in confronto alla Versione B. 
+__________________________________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________________________________
+** LA SPIEGAZIONE HA INFLUENZATO LE SCELTE DELL'UTENTE? 
+** Dopo la visione della spiegazione testuale i rispondenti hanno confermato la diagnosi suggerita dall'AI 
+** con una frequenza maggiore nella versione A. Invece, nella versione B hanno rigettato la diagnosi dell'AI con maggior 
+** frequenza dopo aver visionato la spiegazione testuale. 
+** Si sono registrate 12 CONFERME AGGIUNTIVE per la versione A. Per un totale di 148 CONFERME. 
+** Si sono registrate 12 NEGAZIONI AGGIUNTIVE per la versione B. 
+** La visualizzazione della spiegazione ha influenzato le scelte degli utenti per entrambe le versioni, convincendo alcuni utenti
+** a confermare la diagnosi per la versione A e a negarla per la versione B. 
+__________________________________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________________________________
+** LA SPIEGAZIONE HA INDOTTO A PIÙ ERRORI? 
+** Nella versione A, precedentemente alla visualizzazione della spiegazione, l'intelligenza artificiale ha indotto l'utente  
+** a selezionare una diagnosi errata in 48 casi. 
+** Successivamente alla visualizzazione della spiegazione, l'intelligenza artificiale ha indotto l'utente  
+** a selezionare una diagnosi errata in 48 casi, di cui: 
+** 		 - 35 aventi spiegazione errata. 
+** 		 - 13 aventi spiegazione corretta. 
+** L'intelligenza artificiale non ha alterato gli errori compiuti dall'utente dopo la visualizzazione della spiegazione. 
+__________________________________________________________________________________________________________________________________________
+** Nella versione B, precedentemente alla visualizzazione della spiegazione, l'intelligenza artificiale ha indotto l'utente  
+** a selezionare una diagnosi errata in 80 casi. 
+** Successivamente alla visualizzazione della spiegazione, l'intelligenza artificiale ha indotto l'utente  
+** a selezionare una diagnosi errata in 77 casi, di cui: 
+** 		 - 61 aventi spiegazione errata. 
+** 		 - 16 aventi spiegazione corretta. 
+** L'intelligenza artificiale ha indotto a meno errori dopo la visualizzazione della spiegazione. 
+__________________________________________________________________________________________________________________________________________
+
+
+__________________________________________________________________________________________________________________________________________
+** TEST D'IPOTESI SULL'ACCURATEZZA: 
+** ACCURATEZZA SULLE DIAGNOSI PRODOTTE DALL'AI e CONFERMATE DALL'UTENTE: 
+____________________________________________________________________________
+** 	VERSIONE A 		| CORRETTI 	| ERRATI 	| TOTALE 	|
+** 	 PRE-SPIEGAZIONE 	|  88    	|  48 		|   136 	|
+** 	 POST-SPIEGAZIONE 	|  100  	|  48 		|   148 	|
+** 	 TOTALE 		|  188  	|  96 		|   284 	|
+____________________________________________________________________________
+
+VALORE CHI-QUADRO: 0.25938
+GRADI DI LIBERTÀ: 1
+** La differenza tra le due proporzioni non è significativa al livello di probabilità 5%  e 1 %. 
+** In conclusione, la differenza tra la correttezza delle conferme dell'AI prima e dopo il visionamento della spiegazione 
+** è STATISTICAMENTE NON SIGNIFICATIVA AL LIVELLO DI PROBABILITÀ 5%  e 1%.
+__________________________________________________________________________________________________________________________________________
+____________________________________________________________________________
+** 	VERSIONE B 		| CORRETTI 	| ERRATI 	| TOTALE 	|
+** 	 PRE-SPIEGAZIONE 	|  237    	|  80 		|   317 	|
+** 	 POST-SPIEGAZIONE 	|  228  	|  77 		|   305 	|
+** 	 TOTALE 		|  465  	|  157 		|   622 	|
+____________________________________________________________________________
+
+VALORE CHI-QUADRO: 0.00001
+GRADI DI LIBERTÀ: 1
+** La differenza tra le due proporzioni non è significativa al livello di probabilità 5%  e 1 %. 
+** In conclusione, la differenza tra la correttezza delle conferme dell'AI prima e dopo il visionamento della spiegazione 
+** è STATISTICAMENTE NON SIGNIFICATIVA AL LIVELLO DI PROBABILITÀ 5%  e 1%.
+__________________________________________________________________________________________________________________________________________
+
+
+** ACCURATEZZA SULLE DIAGNOSI PRODOTTE DALL'UTENTE: 
+____________________________________________________________________________
+** 	VERSIONE A 		| CORRETTI 	| ERRATI 	| TOTALE 	|
+** 	 PRE-SUGGERIMENTO 	|  236    	|  204 		|   440 	|
+** 	 POST-SUGGERIMENTO 	|  200  	|  92 		|   292 	|
+** 	 TOTALE 		|  436  	|  296 		|   732 	|
+____________________________________________________________________________
+
+VALORE CHI-QUADRO: 16.08489
+GRADI DI LIBERTÀ: 1
+** La differenza tra le due proporzioni è significativa al livello di probabilità 5%  e 1 %. 
+** In conclusione, la differenza tra la correttezza delle diagnosi prodotte dall'utente prima e dopo il visionamento del suggerimento 
+** è STATISTICAMENTE SIGNIFICATIVA AL LIVELLO DI PROBABILITÀ 5%  e 1%.
+__________________________________________________________________________________________________________________________________________
+____________________________________________________________________________
+** 	VERSIONE B 		| CORRETTI 	| ERRATI 	| TOTALE 	|
+** 	 PRE-SPIEGAZIONE 	|  63    	|  60 		|   123 	|
+** 	 POST-SPIEGAZIONE 	|  70  		|  65 		|   135 	|
+** 	 TOTALE 		|  133  	|  125 		|   258 	|
+____________________________________________________________________________
+
+VALORE CHI-QUADRO: 0.01030
+GRADI DI LIBERTÀ: 1
+** La differenza tra le due proporzioni non è significativa al livello di probabilità 5%  e 1 %. 
+** In conclusione, la differenza tra la correttezza delle diagnosi prodotte dall'utente prima e dopo il visionamento della spiegazione 
+** è STATISTICAMENTE NON SIGNIFICATIVA AL LIVELLO DI PROBABILITÀ 5%  e 1%.
+__________________________________________________________________________________________________________________________________________
